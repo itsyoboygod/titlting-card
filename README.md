@@ -18,4 +18,8 @@
   <p><code>--rotateX:var(--angle);</code></p>
   <p><code>--rotateY: calc(var(--angle)*-1);</code></p>
 </li>
+<li>The result will be this: </li>
+  
+  ![tilting-card-unscreen](https://user-images.githubusercontent.com/58955082/200636287-c8632a8f-374e-4607-8437-6429c44b395e.gif)
+
 </ul>
