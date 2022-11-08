@@ -10,7 +10,7 @@
   ![image](https://user-images.githubusercontent.com/58955082/200633305-c5be5994-e185-4087-a7db-bb29489b7c69.png)
 
 <li>Now we set each grid cell individualy by using the <code>:nth-child():hover</code> property, and then finally setting a angle for the tilt
-   <code>--rotateX:var(--angle);</code></br>
-   <code>--rotateY: calc(var(--angle)*-1);</code>
+   <p><code>--rotateX:var(--angle);</code></p>
+   <p><code>--rotateY: calc(var(--angle)*-1);</code></p>
 </li>
 </ul>
